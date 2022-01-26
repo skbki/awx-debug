@@ -2,26 +2,34 @@
   hosts: all
   tasks:
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
     - name: sleep 1800
-      shell: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
+    - name: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
+    - name: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
+    - name: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
+    - name: sleep 1800
+      shell: echo 'sleeping' && sleep 1800
