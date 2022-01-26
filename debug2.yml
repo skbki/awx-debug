@@ -1,7 +1,7 @@
 - name: debug
   hosts: all
   tasks:
-    - name: sleep 1800
+    - name: generate log lines
       shell: |
         while true
         do
